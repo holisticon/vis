@@ -1,5 +1,5 @@
 {
-  "name": "vis",
+  "name": "@holisticon/vis",
   "version": "4.21.0",
   "description": "A dynamic, browser-based visualization library.",
   "homepage": "http://visjs.org/",

@@ -2,8 +2,8 @@
 
 [![Join the chat at https://gitter.im/vis-js/Lobby](https://badges.gitter.im/vis-js/Lobby.svg)](https://gitter.im/vis-js/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-<a href="https://github.com/almende/vis/blob/develop/misc/we_need_help.md">
-  <img align="right" src="https://raw.githubusercontent.com/almende/vis/master/misc/we_need_help.png">
+<a href="https://github.com/holisticon/vis/blob/develop/misc/we_need_help.md">
+  <img align="right" src="https://raw.githubusercontent.com/@holisticon/vis/master/misc/we_need_help.png">
 </a>
 
 Vis.js is a dynamic, browser based visualization library.
@@ -26,20 +26,20 @@ The vis.js library was initially developed by [Almende B.V](http://almende.com).
 
 [![NPM](https://nodei.co/npm/vis.png?downloads=true&downloadRank=true)](https://nodei.co/npm/vis/)
 
-[![Dependency Status](https://david-dm.org/almende/vis/status.svg)](https://david-dm.org/almende/vis)
-[![devDependency Status](https://david-dm.org/almende/vis/dev-status.svg)](https://david-dm.org/almende/vis?type=dev)
+[![Dependency Status](https://david-dm.org/@holisticon/vis/status.svg)](https://david-dm.org/@holisticon/vis)
+[![devDependency Status](https://david-dm.org/@holisticon/vis/dev-status.svg)](https://david-dm.org/@holisticon/vis?type=dev)
 
 [![last version on CDNJS](https://img.shields.io/cdnjs/v/vis.svg)](https://cdnjs.com/libraries/vis)
-[![GitHub contributors](https://img.shields.io/github/contributors/almende/vis.svg)](https://github.com/almende/vis/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/almende/vis.svg)](https://github.com/almende/vis/stargazers)
+[![GitHub contributors](https://img.shields.io/github/contributors/@holisticon/vis.svg)](https://github.com/holisticon/vis/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/@holisticon/vis.svg)](https://github.com/holisticon/vis/stargazers)
 
-[![GitHub issues](https://img.shields.io/github/issues/almende/vis.svg)](https://github.com/almende/vis/issues)
-[![Percentage of issues still open](http://isitmaintained.com/badge/open/almende/vis.svg)](http://isitmaintained.com/project/almende/vis "Percentage of issues still open")
-[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/almende/vis.svg)](http://isitmaintained.com/project/almende/vis "Average time to resolve an issue")
-[![Pending Pull-Requests](http://githubbadges.herokuapp.com/almende/vis/pulls.svg)](https://github.com/almende/vis/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/@holisticon/vis.svg)](https://github.com/holisticon/vis/issues)
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/@holisticon/vis.svg)](http://isitmaintained.com/project/holisticon/vis "Percentage of issues still open")
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/@holisticon/vis.svg)](http://isitmaintained.com/project/holisticon/vis "Average time to resolve an issue")
+[![Pending Pull-Requests](http://githubbadges.herokuapp.com/@holisticon/vis/pulls.svg)](https://github.com/holisticon/vis/pulls)
 
-[![Test Coverage](https://codeclimate.com/github/almende/vis/badges/coverage.svg)](https://codeclimate.com/github/almende/vis/coverage)
-[![Code Climate](https://codeclimate.com/github/almende/vis/badges/gpa.svg)](https://codeclimate.com/github/almende/vis) 
+[![Test Coverage](https://codeclimate.com/github/@holisticon/vis/badges/coverage.svg)](https://codeclimate.com/github/@holisticon/vis/coverage)
+[![Code Climate](https://codeclimate.com/github/@holisticon/vis/badges/gpa.svg)](https://codeclimate.com/github/@holisticon/vis) 
 
 ## Install
 
@@ -54,7 +54,7 @@ Install via bower:
 Link via cdnjs: http://cdnjs.com
 
 Or download the library from the github project:
-[https://github.com/almende/vis.git](https://github.com/almende/vis.git).
+[https://github.com/holisticon/vis.git](https://github.com/holisticon/vis.git).
 
 ## Load
 
@@ -103,7 +103,7 @@ component.
 ## Example
 
 A basic example on loading a Timeline is shown below. More examples can be
-found in the [examples directory](https://github.com/almende/vis/tree/master/examples)
+found in the [examples directory](https://github.com/holisticon/vis/tree/master/examples)
 of the project.
 
 ```html
@@ -144,7 +144,7 @@ of the project.
 
 To build the library from source, clone the project from github
 
-    $ git clone git://github.com/almende/vis.git
+    $ git clone git://github.com/holisticon/vis.git
 
 The source code uses the module style of node (require and module.exports) to
 organize dependencies. To install all dependencies and build the library,
@@ -189,7 +189,7 @@ Before you can do a build:
 - Download or clone the vis.js project:
 
   ```
-  $ git clone https://github.com/almende/vis.git
+  $ git clone https://github.com/holisticon/vis.git
   ```
 
 - Install the dependencies of vis.js by running `npm install` in the root of the project:
